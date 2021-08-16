@@ -11,4 +11,4 @@ def binary_search(sorted_list: list, item: int):
             high = mid - 1
         else:
             low = mid + 1
-        return None
+    return None
